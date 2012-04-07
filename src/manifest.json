@@ -1,7 +1,7 @@
 {
   "name": "__MSG_extName__",
   "manifest_version": 2,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "default_locale": "en",
   "description": "__MSG_extDesc__",
   "background" : {
@@ -15,7 +15,7 @@
            },
   "browser_action": {
            "default_icon":  "resource/19.png",
-           "default_title": "__MSG_extTip__"
+           "default_title": "__MSG_extName__"
           },
   "permissions": [
     "tabs",
