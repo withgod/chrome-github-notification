@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "github notification"
+  },
+  "extDesc": {
+    "message": "github notification unofficial extension."
+  },
+  "msgLogin": {
+    "message": "please login github."
+  }
+}

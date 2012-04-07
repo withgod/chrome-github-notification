@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "github notification"
+  },
+  "extDesc": {
+    "message": "非公式 github 未読通知拡張."
+  },
+  "msgLogin": {
+    "message": "githubにログインして下さい."
+  }
+}

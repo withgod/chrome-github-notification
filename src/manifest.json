@@ -1,0 +1,24 @@
+{
+  "name": "__MSG_extName__",
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "default_locale": "en",
+  "description": "__MSG_extDesc__",
+  "background" : {
+    "page": "background.html"
+  },
+  "icons": {
+             "16": "resource/16.png",
+             "32": "resource/32.png",
+             "48": "resource/48.png",
+            "128": "resource/128.png"
+           },
+  "browser_action": {
+           "default_icon":  "resource/19.png",
+           "default_title": "__MSG_extTip__"
+          },
+  "permissions": [
+    "tabs",
+    "https://github.com/inbox/notifications"
+  ]
+}
